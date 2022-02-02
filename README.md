@@ -16,6 +16,7 @@ Depois de analisar algumas vagas para desenvolvedores front-end, comecei a duvid
   <li> Angular </li>
   <li> Vue.js </li>
   <li> TypeScript </li>
+  <li> Flutter </li>
   <li> Git </li>
   <li> Testes Unitários </li>
   <li> SQL e NoSQL </li>
