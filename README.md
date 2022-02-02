@@ -3,7 +3,7 @@ Depois de analisar algumas vagas para desenvolvedores front-end, comecei a duvid
 
 <br>
 <ul>
-  <li> .NET CORE </li>
+  <li> ASP.NET </li>
   <li> APIs </li>
   <li> DevOps, Cloud, e Conceitos de Segurança </li>
   <li> Clean Code e Solid </li>
