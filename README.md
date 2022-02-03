@@ -7,6 +7,7 @@ Depois de analisar algumas vagas para desenvolvedores front-end, comecei a duvid
   <li> APIs </li>
   <li> DevOps, Cloud, e Conceitos de Segurança </li>
   <li> Clean Code e Solid </li>
+  <li> Design Pattern </li>
   <li> Sass
   <li> React </li>
     <ul> 
