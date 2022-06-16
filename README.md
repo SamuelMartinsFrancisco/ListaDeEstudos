@@ -1,9 +1,8 @@
 # Lista de Estudos
-Depois de analisar algumas vagas para desenvolvedores front-end, comecei a duvidar do conhecimento que adquiri até então, isto é, se era o suficiente (mesmo que nunca vá ser).
+Depois de observar vagas para desenvolvedores front-end, listei algumas das coisas que lá eram requeridas. Não que se deva aprender tudo isso, mas são possibilidades.
 
 <br>
 <ul>
-  <li> ASP.NET </li>
   <li> APIs </li>
   <li> DevOps, Cloud, e Conceitos de Segurança </li>
   <li> Clean Code e Solid </li>
